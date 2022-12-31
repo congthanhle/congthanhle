@@ -22,14 +22,14 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .signature {
           font-size: 16px;
         }
 			</style>
 
 			<div class="container">
         <div class="quotes-eng">"Nothing is impossible"</div>
-        <div class="trungquandev-signature">-CongThanhLe-</div>
+        <div class="signature">-CongThanhLe-</div>
       </div>
 		</div>
 	</foreignObject>
