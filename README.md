@@ -32,10 +32,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congthanhle&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="congthanhle">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congthanhle&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="congthanhle">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=congthanhle&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -47,13 +47,13 @@
 <div align="center">
   
   <a href="https://facebook.com/lcthanh225" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="congthanhle-facebook" />
   </a>
   <a href="" target="blank">
-    <img width="90" height="90" src="images/lct.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="images/lct.png" alt="congthanhle-blog" />
   </a>
   <a href="mailto:congthanhle225@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="congthanhle-email" />
   </a>
 </div>
 
@@ -64,6 +64,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/congthanhle-quotes.svg" width="846" height="150" alt="congthanhle" />
+  <img src="svg/congthanhle-quotes.svg" width="846" height="150" alt="congthanhle-official" />
 </a>
 
